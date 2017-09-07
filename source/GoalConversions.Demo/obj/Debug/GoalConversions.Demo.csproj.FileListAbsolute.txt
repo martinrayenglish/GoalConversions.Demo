@@ -1,0 +1,11 @@
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\obj\Debug\GoalConversions.Demo.csprojResolveAssemblyReference.cache
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\GoalConversions.Demo.dll.config
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\GoalConversions.Demo.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\GoalConversions.Demo.pdb
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\Sitecore.Analytics.Core.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\Sitecore.Analytics.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\Sitecore.Analytics.Model.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\Sitecore.Kernel.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\bin\Sitecore.Mvc.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\obj\Debug\GoalConversions.Demo.dll
+C:\Projects\GoalConversions.Demo\source\GoalConversions.Demo\obj\Debug\GoalConversions.Demo.pdb
